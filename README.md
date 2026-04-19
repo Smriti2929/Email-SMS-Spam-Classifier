@@ -137,11 +137,17 @@ streamlit run app.py
 
 ### 🔹 App Interface
 
-(Add screenshot here)
+![App Screenshot](screenshot1.png)
 
 ### 🔹 Prediction Example
 
-(Add screenshot here)
+Spam
+
+![App Screenshot](screenshot2.png) 
+
+Not Spam
+
+![App Screenshot](screenshot3.png)
 
 ---
 
