@@ -139,13 +139,16 @@ streamlit run app.py
 
 ![App Screenshot](screenshot1.png)
 
+
 ### 🔹 Prediction Example
 
-Spam
+         * Spam
 
 ![App Screenshot](screenshot2.png) 
 
-Not Spam
+         
+         * Not Spam
+         
 
 ![App Screenshot](screenshot3.png)
 
