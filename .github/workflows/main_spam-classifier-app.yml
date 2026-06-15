@@ -73,4 +73,5 @@ jobs:
         with:
           app-name: 'spam-classifier-app'
           slot-name: 'Production'
+          startup-command: python -m streamlit run app.py --server.port 8000 --server.address 0.0.0.0
           
