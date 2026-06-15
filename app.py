@@ -68,10 +68,3 @@ st.write("Let's meet for lunch tomorrow")
 # 2. vectorize
 # 3. predict
 # 4. display
-
-import os
-
-if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 8000))
-    os.system(f"streamlit run app.py --server.port {port} --server.address 0.0.0.0")
-
